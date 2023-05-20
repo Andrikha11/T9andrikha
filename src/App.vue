@@ -7,7 +7,7 @@ import HelloWorld from './components/HelloWorld.vue'
   <header>
    
     <div class="wrapper">
-      <HelloWorld msg="Vue Router - RIDHO!" />
+      <HelloWorld msg="Vue Router - ANDRIKHA!" />
 
       <nav>
         <RouterLink to="/">Home</RouterLink>
